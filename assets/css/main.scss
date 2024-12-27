@@ -1,0 +1,20 @@
+@import 'primeicons/primeicons.css';
+
+@font-face {
+    font-family: 'DinRoundPro';
+    src: url('~/assets/fonts/dinroundpro_medi.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+body {
+    font-family: 'DinRoundPro', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #4b4b4b;
+}
+
+:root{
+    --bg-opacity: 1;
+    --bg-primary: #f8f9ff;
+}
